@@ -6,6 +6,12 @@
 
 ## Getting Started
 
+If you are runing evelopment first time, run this code first:
+
+```
+npm install
+```
+
 To run development, run:
 
 ```
