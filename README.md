@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-If you are runing evelopment first time, run this code first:
+If it is the first time running it, run this code first:
 
 ```
 npm install
