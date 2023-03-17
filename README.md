@@ -2,6 +2,8 @@
 
 - Please find the backend server here: https://github.com/leeh1102/fulhaus-be.git
 
+- Given the time constraints and the need of efficiency for MVP, the current project has not been structured into separate components.
+
 ## Getting Started
 
 To run development, run:
@@ -14,10 +16,7 @@ npm run dev
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
 - [React](https://reactjs.org/) - Open-source JavaScript framework
-- [Express.js](https://expressjs.com/) - Back-end web application framework
-- [Node.js](https://nodejs.org/en/) - Back-end JavaScript runtime environment
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Postman](https://www.postman.com/) - API platform
+- [Material UI] (https://mui.com/) - Library of UI design components
 
 ## Author
 
