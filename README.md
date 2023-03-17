@@ -1,4 +1,6 @@
-# Fulhaus - Frontend
+# Fulhaus Fronend server
+
+- Please find the backend server here: https://github.com/leeh1102/fulhaus-be.git
 
 ## Getting Started
 
