@@ -16,7 +16,7 @@ npm run start
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
 - [React](https://reactjs.org/) - Open-source JavaScript framework
-- [Material UI] (https://mui.com/) - Library of UI design components
+- [Material UI](https://mui.com/) - Library of UI design components
 
 ## Author
 
